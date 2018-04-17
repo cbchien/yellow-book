@@ -1,0 +1,20 @@
+{
+  "name": "yellow-page",
+  "version": "1.0.0",
+  "description": "this is the electronic version of newspaper ad",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "firebase": "^4.12.1",
+    "firebase-admin": "^5.12.0",
+    "nodemon": "^1.17.3"
+  }
+}
